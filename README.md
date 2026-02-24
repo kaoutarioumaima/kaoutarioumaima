@@ -59,3 +59,9 @@ I enjoy transforming ideas into interactive digital solutions through clean code
 <p align="left">
 Feel free to connect with me on LinkedIn or explore my repositories to see my work!
 </p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/oumaimakaoutari" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Oumaima%20Kaoutari-blue?style=for-the-badge&logo=linkedin" alt="linkedin logo"/>
+</a>
+</p>
